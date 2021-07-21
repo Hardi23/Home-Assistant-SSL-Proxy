@@ -1,4 +1,4 @@
-# Home-Assistant-Unable-to-connect
+# Home Assistant Unable to connect behind proxy
 ## For everyone also having this problem.
 
 ## In my case I am using a reverse Proxy with Apache to reach my HASS installation.
